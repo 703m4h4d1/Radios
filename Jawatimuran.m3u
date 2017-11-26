@@ -6,11 +6,11 @@ http://live.citrafmradio.com:9894/listen.pls
 #EXTINF:-1,99.4 Passopati FM Bondowoso
 http://208.84.135.168:9494/listen.pls
 #EXTINF:-1,88.3 Duta Swara FM Dander Bojonegoro
-http://dutaswarafm.onlivestreaming.net:9292/listen.pls?sid=1
+http://dutaswarafm.onlivestreaming.net:9292/listen.pls
 #EXTINF:-1,95.0 FM Istana Radio Bojonegoro   
 http://199.15.251.137:8000/istana.m3u
 #EXTINF:-1,96.6 BaSS FM Bojonegoro   
-http://110.138.212.109:8003/listen.pls?sid=1
+http://110.138.212.109:8003/listen.pls
 #EXTINF:-1,88.4 FM Radio Budaya Jawa Blitar   
 http://i.klikhost.net:8710/listen.pls
 #EXTINF:-1,93.0 Persada FM Blitar   
@@ -29,16 +29,12 @@ http://118.97.236.18:8000/blambanganfm.m3u
 http://i.klikhost.com:9130/listen.pls
 #EXTINF:-1,96.4 Mandala FM Banyuwangi   
 http://stream.suararadio.com:8000/964_MANDALA_FM_Stereo.m3u
-#EXTINF:-1,97.2 MCFM Banyuwangi   
-http://streamingkita.com/player/preview.php?id=/mcfmbwi
 #EXTINF:-1,101.5 VIS FM Banyuwangi   
 http://s3.vinhostmedia.com:9616/listen.pls
 #EXTINF:-1,104.7 New Kendedes FM Banyuwangi   
 http://s3.vinhostmedia.com:9130/listen.pls   
 #EXTINF:-1,106.6 Panji Laras FM Banyuwangi   
 http://128.199.108.79:7075/listen.pls
-#EXTINF:-1,107.0 Casava FM Pesanggaran Banyuwangi Jawa Timur   
-http://www.radiocasavafm.com/
 #EXTINF:-1,107.7 Global Media Swara FM Banyuwangi   
 http://u.klikhost.com:8000/radioglobalmediaswarafm.m3u
 http://198.71.90.155:8210/listen.pls
@@ -81,7 +77,7 @@ http://45.64.96.15:8010/listen.pls
 #EXTINF:-1,99.7 FM RRI Pro 1 Madiun   
 http://180.250.80.114:9318/rrimadiunpro1.mp3
 #EXTINF:-1,100.5 DCS FM Madiun
-http://stream.radiodcs.com:10050/listen.pls?sid=1
+http://stream.radiodcs.com:10050/listen.pls
 #EXTINF:-1,87.7 Sanjaya FM Magetan   
 http://streamingkita.com/player/?id=sanjayafm   
 #EXTINF:-1,87.7 Sanjaya FM Magetan(1)  
