@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,Pro3
+http://streaming.rri.co.id:9014/web-kbrn.mp3
+#EXTINF:-1,Channel 5
+http://streaming.rri.co.id:8941/web-chlima.mp3
+#EXTINF:-1,Classic Channel
+http://streaming.rri.co.id:9336/web-rriklasik.mp3
+#EXTINF:-1,Indonesia Channel
+http://streaming.rri.co.id:9337/web-indonesia.mp3
+#EXTINF:-1,Jazz Channel
+http://streaming.rri.co.id:9025/web-rrijazz.mp3
+#EXTINF:-1,Keroncong Channel
+http://streaming.rri.co.id:9236/web-rrikeroncong.mp3
+#EXTINF:-1,Melayu Channel
+http://streaming.rri.co.id:9041/web-melayu.mp3
+#EXTINF:-1,Voice of Indonesia (English)
+http://live.rriworldservice.com:9000/voi.mp3
+#EXTINF:-1,Voice of Indonesia (Indonesia)
+http://streaming.rri.co.id:9125/web-voi.mp3
 #EXTINF:-1,Aceh Singkil
 http://streaming.rri.co.id:9136/web-rriacehsingkilpro1.mp3
 #EXTINF:-1,Ambon Pro1
