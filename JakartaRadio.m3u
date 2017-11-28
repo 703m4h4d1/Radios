@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,Bahana – Frekuensi 101.8 MHz
+http://103.16.199.177:8102/
+#EXTINF:-1,Ben’s Radio – Frekuensi 93.9 MHz
+http://175.103.58.72:8000/;stream.mp3
+#EXTINF:-1,Bens Radio – Frekuensi 106.2 MHz
+http://175.103.58.72:8000/;
+#EXTINF:-1,Brava Radio--Frekuensi 103.8 MHz
+http://mra.rastream.com/mra_brava
+#EXTINF:-1,Cakrawala Gita Swara – Frekuensi 98.3 MHz
+http://158.69.119.235:8016/stream/1/
+#EXTINF:-1,Camajaya Surya Nada – Frekuensi 102.6 MHz
+http://live.camajayafm.com:8220/;stream.nsv
+#EXTINF:-1,Cosmopolitan – Frekuensi 90.4 MHz
+http://mra.rastream.com/mra_cosmo
+#EXTINF:-1,Dangdut TPI – Frekuensi 97.1 MHz
+http://202.147.199.99:8000/;stream.nsv
+#EXTINF:-1,Delta – Frekuensi 99.1 MHz
+http://masima.rastream.com/masima-deltajakarta
+#EXTINF:-1,DFM – Frekuensi 103.4MHz 
+http://streaming.radio.co/s2c4ce84ef/listen
+#EXTINF:-1,El Gangga – Frekuensi 103.9 MHz 
+http://103.28.148.18:8174/
+#EXTINF:-1,Elshinta – Frekuensi 90.0 MHz 
+http://202.137.4.147:8000/;
+#EXTINF:-1,Female – Frekuensi 99.5 MHz 
+http://masima.rastream.com/masima-femaleradio
+#EXTINF:-1,Gaya FM – Frekuensi 93.6 MHz 
+http://u.klikhost.net:7726/;
+#EXTINF:-1,Gen FM – Frekuensi 98.7 MHz 
+http://streaming.sim-indonesia.com:8000/genfm
+#EXTINF:-1,Gen FM – Frekuensi 98.7 MHz 
+http://streaming.sim-indonesia.com:8000/genfm
+#EXTINF:-1,Global Radio – Frekuensi 88.4 MHz 
+http://202.147.199.98/;stream.nsv
+#EXTINF:-1,Green Radio – Frekuensi 89.2 MHz 
+http://greenradio.onlivestreaming.net:8920/stream?1511856120218.aac
+#EXTINF:-1,Hard Rock FM – Frekuensi 87.6 MHz 
+http://mra.rastream.com/mra_hardrock
+#EXTINF:-1,Indika Milenia – Frekuensi 91.6 MHz 
+http://103.16.198.36:9160/stream
+#EXTINF:-1,i-Radio – Frekuensi 89.6 MHz 
+http://mra.rastream.com/mra_iradio
+#EXTINF:-1,Jak-FM – Frekuensi 101.0 MHz 
+http://streaming1.sim-indonesia.com:8000/jak
+#EXTINF:-1,Jalasveva Jayamahe – Frekuensi 108.0 MHz
+http://beta.tnial.mil.id:8000/;listen.pls
+#EXTINF:-1,KIS – Frekuensi 95.1 MHz 
+http://streaming2.sportku.com:8000/kis
+#EXTINF:-1,LiteFM / Ramako – Frekuensi 105.8 MHz 
+http://streaming2.sportku.com:8000/most
+#EXTINF:-1,Motion – Frekuensi 97.5 MHz 
+http://103.226.246.245/kompas-motionjakarta
+#EXTINF:-1,MS Tri – Frekuensi 104.2 MHz 
+http://2mstrifm.onlivestreaming.net:1042/;
+#EXTINF:-1,Mustang – Frekuensi 88.0 MHz 
+http://streaming2.sportku.com:8000/mustang
+#EXTINF:-1,CBB – Frekuensi 105.4 MHz 
+http://live.bandardangdut.net:8228/;
+#EXTINF:-1,PASS – Frekuensi 92.4 MHz 
+http://199.167.134.163:7014/;
+#EXTINF:-1,Pelita Kasih – Frekuensi 96.3 MHz 
+http://noasrv.caster.fm:10176/stream
+#EXTINF:-1,Prambors – Frekuensi 102.2 MHz 
+http://masima.rastream.com/masima-pramborsjakarta
+#EXTINF:-1,RasFM – Frekuensi 95.5 MHz 
+http://i.klikhost.net:9006/;
+#EXTINF:-1,Smart – Frekuensi 95.9 MHz 
+http://101.50.0.77:8000/smartfm.aac
+#EXTINF:-1,Sonora – Frekuensi 92.0 MHz 
+http://103.226.246.245/kompas-sonorajakarta
+#EXTINF:-1,Trax FM – Frekuensi 101.4 MHz 
+http://mra.rastream.com/mra_trax
+#EXTINF:-1,Trijaya – Frekuensi 104.6 MHz 
+http://202.147.199.101:8000/;stream.nsv
+#EXTINF:-1,Virgin FM Jakarta 99.9 MHz 
+http://17023.live.streamtheworld.com/VIRGINRADAAC.aac
+#EXTINF:-1,Women – Frekuensi 94.3 MHz 
+http://live.indostreamserver.com:8014/;
