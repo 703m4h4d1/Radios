@@ -2,3 +2,21 @@
 #EXTM3U
 #EXTINF:-1,Radio TOSS 99,3 FM Banda Aceh
 http://live2.indostreamserver.com:8078/;
+#EXTINF:-1,Serambi FM 90.2 MHz
+http://live.serambifm.com:8902/;
+#EXTINF:-1,Nikoya 106 FM
+http://radio.nikoyafm.com:10060/nikoyafm;
+#EXTINF:-1,As FM Sigli
+http://207.244.75.88:1234/;
+#EXTINF:-1,Flamboyant 105.2 FM
+http://180.235.148.146:8105/stream;
+#EXTINF:-1,DIRADJA 106,2 FM
+http://diradjafm.zapto.org:8555/;
+#EXTINF:-1,XTRA 104.8FM SINGKIL
+http://103.28.148.18:8864/;
+#EXTINF:-1,Radio Rimba Pase
+http://109.169.27.91:7809/;
+#EXTINF:-1,Radio Alfitrah
+http://live2.indostreamserver.com:8028/;
+#EXTINF:-1,RRI Sabang 
+http://i.klikhost.com:8170/;
